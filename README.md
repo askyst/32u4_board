@@ -7,4 +7,4 @@ This code will use interruption(timer), ADC, AC, SPI, EEPROM, and other function
 
 
 
-At the moment, the code is still under heavy development. It will be upload later.
+At the moment, the code is still under heavy development. It will be uploaded later.
